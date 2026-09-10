@@ -23,7 +23,17 @@ x install fox
 - **Latest**: `v0.22.1` (2026-08-22)
 - **Last commit**: 2026-08-22
 - **Assets in release**: 6
-- **Published**: 2026-08-22T08:45:47Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz) | 32.4 MiB | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz.sha256](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz.sha256) | 116 B | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz) | 20.1 MiB | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
+| [install.ps1](https://github.com/ferrumox/fox/releases/download/v0.22.1/install.ps1) | 3.6 KiB | `other` |
+| [install.sh](https://github.com/ferrumox/fox/releases/download/v0.22.1/install.sh) | 6.5 KiB | `other` |
 
 ## Popularity
 
@@ -58,8 +68,8 @@ Total: **32,004** lines of code across **129** files in the top 5 languages.
 Install metadata for fox lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `fox` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/fox.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/fox.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:53:47Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:40:15Z._

@@ -4,7 +4,7 @@
 
 A local LLM server built for concurrent work. Drop-in replacement for Ollama and/or OpenAI and Ollama APIs on one port. Requests that share a prompt reuse each other's KV cache instead of each prefilling it. Rust, wrapping llama.cpp.
 
-![fox](https://repo.x-cmd.io/fox.svg)
+![fox](https://repo.x-cmd.io/fox.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,17 @@ x install fox
 - **最新版本**: `v0.22.1` (2026-08-22)
 - **最近提交**: 2026-08-22
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-08-22T08:45:47Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz) | 32.4 MiB | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz.sha256](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz.sha256) | 116 B | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz) | 20.1 MiB | `native/linux/x64/glibc` |
+| [fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz.sha256](https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz.sha256) | 109 B | `native/linux/x64/glibc` |
+| [install.ps1](https://github.com/ferrumox/fox/releases/download/v0.22.1/install.ps1) | 3.6 KiB | `other` |
+| [install.sh](https://github.com/ferrumox/fox/releases/download/v0.22.1/install.sh) | 6.5 KiB | `other` |
 
 ## 流行度
 
@@ -62,4 +72,4 @@ fox 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:53:47Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:40:15Z._
