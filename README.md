@@ -48,12 +48,12 @@ Total: **32,004** lines of code across **129** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 2 | 0 | 1 | 0 | 0 | 11 |
-| last60d | 2026-07-16 | 7 | 0 | 1 | 1 | 0 | 192 |
-| 90d | 2026-06-16 | 10 | 0 | 1 | 1 | 2 | 281 |
-| last180d | 2026-03-18 | 10 | 0 | 1 | 1 | 4 | 298 |
-| 360d | 2025-09-19 | 16 | 0 | 1 | 1 | 4 | 396 |
-| last720d | 2024-09-24 | 16 | 0 | 1 | 1 | 4 | 428 |
+| 30d | 2026-08-16 | 2 | 0 | 1 | 0 | 0 | 11 |
+| last60d | 2026-07-17 | 7 | 0 | 1 | 1 | 0 | 192 |
+| 90d | 2026-06-17 | 10 | 0 | 1 | 1 | 2 | 281 |
+| last180d | 2026-03-19 | 10 | 0 | 1 | 1 | 4 | 298 |
+| 360d | 2025-09-20 | 16 | 0 | 1 | 1 | 4 | 396 |
+| last720d | 2024-09-25 | 16 | 0 | 1 | 1 | 4 | 428 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for fox lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:25:05Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:14:38Z._
