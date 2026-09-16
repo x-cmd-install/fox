@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 33964224,
       "digest": "sha256:0620fcf926f33d1de8cf6a790b271cbd753a70b1ef4cbdc1d16ba3eef3e0afd9",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-08-22T08:47:19Z",
       "updated_at": "2026-08-22T08:47:20Z",
       "browser_download_url": "https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu-vulkan.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 21066812,
       "digest": "sha256:2ff6f1c628c1a69c7f4f1d1e2a58dad0ef2da5624942b5635fee371e65959023",
-      "download_count": 19,
+      "download_count": 22,
       "created_at": "2026-08-22T08:45:45Z",
       "updated_at": "2026-08-22T08:45:46Z",
       "browser_download_url": "https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 109,
       "digest": "sha256:9f7a877be41f444172f9b5887d823f11a595562ad53aa193d24e8c681b88711f",
-      "download_count": 1,
+      "download_count": 2,
       "created_at": "2026-08-22T08:45:45Z",
       "updated_at": "2026-08-22T08:45:45Z",
       "browser_download_url": "https://github.com/ferrumox/fox/releases/download/v0.22.1/fox-0.22.1-x86_64-unknown-linux-gnu.tar.gz.sha256"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6687,
       "digest": "sha256:acec8ca3909c109b5a382433f49f8118641a95e87d4fbb70085efdd4ae12a3af",
-      "download_count": 26,
+      "download_count": 27,
       "created_at": "2026-08-22T08:47:19Z",
       "updated_at": "2026-08-22T08:47:19Z",
       "browser_download_url": "https://github.com/ferrumox/fox/releases/download/v0.22.1/install.sh"
