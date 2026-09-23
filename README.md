@@ -4,7 +4,7 @@
 
 A local LLM server built for concurrent work. Drop-in replacement for Ollama and/or OpenAI and Ollama APIs on one port. Requests that share a prompt reuse each other's KV cache instead of each prefilling it. Rust, wrapping llama.cpp.
 
-[![x-cmd/install — fox Code Quality Monitoring Repo Card](https://repo.x-cmd.io/fox.svg)](https://x-cmd.com/install/fox)
+[![x-cmd/install — fox Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/fox.svg)](https://x-cmd.com/install/fox)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **32,004** lines of code across **129** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 6 | 0 | 0 | 1 | 0 | 192 |
-| 90d | 2026-06-24 | 10 | 0 | 0 | 1 | 2 | 281 |
-| last180d | 2026-03-26 | 10 | 0 | 0 | 1 | 4 | 292 |
-| 360d | 2025-09-27 | 16 | 0 | 0 | 1 | 4 | 396 |
-| last720d | 2024-10-02 | 16 | 0 | 0 | 1 | 4 | 428 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 6 | 0 | 0 | 1 | 0 | 192 |
+| 90d | 2026-06-25 | 10 | 0 | 0 | 1 | 2 | 281 |
+| last180d | 2026-03-27 | 10 | 0 | 0 | 1 | 4 | 292 |
+| 360d | 2025-09-28 | 16 | 0 | 0 | 1 | 4 | 396 |
+| last720d | 2024-10-03 | 16 | 0 | 0 | 1 | 4 | 428 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for fox lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:10:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:07:48Z._
